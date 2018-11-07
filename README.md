@@ -34,5 +34,4 @@ This project is licensed under the MIT License - see the [https://github.com/Vas
 
 * Colt Steele's Bootcamp course
 
-
-#####Disclaimer: It's designed purely with the Front-End Frameworks and Technology and doesn't yet include the capability to store information in a database.
+Disclaimer: It's designed purely with the Front-End Frameworks and Technology and doesn't yet include the capability to store information in a database.

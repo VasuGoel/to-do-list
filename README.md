@@ -18,7 +18,7 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 
 ## Built With
 
-* [Javascript (https://www.javascript.com/) - High-level, interpreted programming language
+* [Javascript] (https://www.javascript.com/) - High-level, interpreted programming language
 * [jQuery] (https://jquery.com/) -  Client-side scripting of HTML
 * [Animate.css] (https://github.com/daneden/animate.css/) - Cross-browser library of CSS animations
 * [HTML] (https://www.html.com/) - Standard markup language
